@@ -68,7 +68,7 @@ export const Card = ({
             </span>
           </div>
         </div>
-        <div className='border border-t border-neutral-line' />
+        <div className='border border-t border-neutral-line bg-neutral-line' />
         <div className='pt-4'>
           <div className='inline-flex items-center justify-start w-full'>
             <Image
