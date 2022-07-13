@@ -2,7 +2,7 @@ import type { NextPage } from 'next';
 
 const Home: NextPage = () => {
   return (
-    <div className='flex items-center justify-center min-h-screen mx-auto bg-neutral-main'>
+    <div className='flex items-center justify-center min-h-screen mx-auto bg-neutral-main debug-screens'>
       <div className='text-lg text-primary-cyan'>
         <h1 className='text-2xl text-primary-soft-blue'>
           Nextjs Tailwind Typescript Setup

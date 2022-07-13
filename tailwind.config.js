@@ -17,6 +17,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Outfit', ...defaultTheme.fontFamily.sans],
+        outfit: ['Outfit'],
       },
     },
     colors: {
