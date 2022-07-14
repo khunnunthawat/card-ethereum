@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+NFT Card
+
+Design App
+
+![desktop-preview](https://user-images.githubusercontent.com/68588944/178965811-6de3b0c1-68c5-4c9a-a6c4-0734ba881b53.jpg)
+
+![mobile-design](https://user-images.githubusercontent.com/68588944/178965846-08c9c5d7-8b94-4c49-a10c-49767c72fc1b.jpg)
 
 ## Getting Started
 
